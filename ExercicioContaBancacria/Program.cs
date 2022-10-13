@@ -4,6 +4,10 @@
     {
         static void Main(string[] args)
         {
+
+
+            ContaBancaria cb;
+
             Console.WriteLine("Entre o número da conta");
             int numero = Convert.ToInt32(Console.ReadLine());
 
@@ -15,15 +19,13 @@
             if (pergunta == 's')
             {
                 Console.WriteLine("Entre o valor  do depósito inicial");
+                double deposito = Convert.ToDouble(Console.ReadLine());
+                cb = new ContaBancaria(numero,nome,deposito);
             }
             else
             {
-                Console.WriteLine("Sem valor inicial");
+                cb = new ContaBancaria(numero, nome);
             }
-
-            double deposito = Convert.ToDouble(Console.ReadLine());
-
-            ContaBancaria cb = new ContaBancaria(numero, nome, deposito);
 
             Console.WriteLine("Dados da conta :");
             Console.WriteLine(cb);

@@ -1,14 +1,12 @@
-﻿
-
-using System.Globalization;
-
-namespace ExercicioContaBancacria
+﻿namespace ExercicioContaBancacria
 {
     public class ContaBancaria
     {
         public int NumeroConta { get; private set; }
         public string NomeTitularConta { get; set; }
-        public double DepositoInicial { get; set; }
+        public double DepositoInicial { get; private set; }
+
+
 
         public ContaBancaria(int numeroConta, string nomeTitularConta)
         {
@@ -23,24 +21,25 @@ namespace ExercicioContaBancacria
             DepositoInicial = depositoInicial;
         }
 
-        public double Desposito(double deposito)
+        public void Desposito(double quantia)
         {
-            return DepositoInicial += deposito;
+            DepositoInicial += quantia;
         }
 
-        public double Saque(double saque)
+        public void Saque(double quantia)
         {
-            double a = (DepositoInicial -= saque);
-            return a - 10;
+            DepositoInicial -= quantia + 5;
+
         }
 
         public override string ToString()
         {
-            return NomeTitularConta
-            
+            return "Nome titular da conta: "
             +
-            ", numero da conta "
-            +  NumeroConta 
+              NomeTitularConta
+            +
+            ", numero da conta: "
+            + NumeroConta
             + " seu saldo Total: $ "
             + DepositoInicial;
         }
