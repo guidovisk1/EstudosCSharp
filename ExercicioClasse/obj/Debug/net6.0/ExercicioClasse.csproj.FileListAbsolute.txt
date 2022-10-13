@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\bin\Debug\net6.0\ExercicioClasse.exe
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\bin\Debug\net6.0\ExercicioClasse.deps.json
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\bin\Debug\net6.0\ExercicioClasse.runtimeconfig.json
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\bin\Debug\net6.0\ExercicioClasse.dll
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\bin\Debug\net6.0\ExercicioClasse.pdb
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\obj\Debug\net6.0\ExercicioClasse.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\obj\Debug\net6.0\ExercicioClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\obj\Debug\net6.0\ExercicioClasse.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\obj\Debug\net6.0\ExercicioClasse.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\obj\Debug\net6.0\ExercicioClasse.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\obj\Debug\net6.0\ExercicioClasse.dll
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\obj\Debug\net6.0\refint\ExercicioClasse.dll
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\obj\Debug\net6.0\ExercicioClasse.pdb
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\obj\Debug\net6.0\ExercicioClasse.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioClasse\obj\Debug\net6.0\ref\ExercicioClasse.dll

@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\bin\Debug\net6.0\Condições.exe
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\bin\Debug\net6.0\Condições.deps.json
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\bin\Debug\net6.0\Condições.runtimeconfig.json
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\bin\Debug\net6.0\Condições.dll
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\bin\Debug\net6.0\Condições.pdb
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\obj\Debug\net6.0\Condições.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\obj\Debug\net6.0\Condições.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\obj\Debug\net6.0\Condições.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\obj\Debug\net6.0\Condições.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\obj\Debug\net6.0\Condições.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\obj\Debug\net6.0\Condições.dll
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\obj\Debug\net6.0\refint\Condições.dll
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\obj\Debug\net6.0\Condições.pdb
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\obj\Debug\net6.0\Condições.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\Condições\obj\Debug\net6.0\ref\Condições.dll
