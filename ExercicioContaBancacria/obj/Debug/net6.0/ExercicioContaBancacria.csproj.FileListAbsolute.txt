@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\bin\Debug\net6.0\ExercicioContaBancacria.exe
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\bin\Debug\net6.0\ExercicioContaBancacria.deps.json
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\bin\Debug\net6.0\ExercicioContaBancacria.runtimeconfig.json
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\bin\Debug\net6.0\ExercicioContaBancacria.dll
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\bin\Debug\net6.0\ExercicioContaBancacria.pdb
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\obj\Debug\net6.0\ExercicioContaBancacria.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\obj\Debug\net6.0\ExercicioContaBancacria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\obj\Debug\net6.0\ExercicioContaBancacria.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\obj\Debug\net6.0\ExercicioContaBancacria.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\obj\Debug\net6.0\ExercicioContaBancacria.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\obj\Debug\net6.0\ExercicioContaBancacria.dll
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\obj\Debug\net6.0\refint\ExercicioContaBancacria.dll
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\obj\Debug\net6.0\ExercicioContaBancacria.pdb
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\obj\Debug\net6.0\ExercicioContaBancacria.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\ExercicioContaBancacria\obj\Debug\net6.0\ref\ExercicioContaBancacria.dll
