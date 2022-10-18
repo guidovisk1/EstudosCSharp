@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\obj\Debug\net6.0\VetorEstudante.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\obj\Debug\net6.0\VetorEstudante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\obj\Debug\net6.0\VetorEstudante.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\obj\Debug\net6.0\VetorEstudante.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\obj\Debug\net6.0\VetorEstudante.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\bin\Debug\net6.0\VetorEstudante.exe
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\bin\Debug\net6.0\VetorEstudante.deps.json
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\bin\Debug\net6.0\VetorEstudante.runtimeconfig.json
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\bin\Debug\net6.0\VetorEstudante.dll
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\bin\Debug\net6.0\VetorEstudante.pdb
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\obj\Debug\net6.0\VetorEstudante.dll
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\obj\Debug\net6.0\refint\VetorEstudante.dll
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\obj\Debug\net6.0\VetorEstudante.pdb
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\obj\Debug\net6.0\VetorEstudante.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ProjetosFe\C#Udemy\PrimeiroProjeto\VetorEstudante\obj\Debug\net6.0\ref\VetorEstudante.dll
