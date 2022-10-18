@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "EntradaDeDados/1.0.0": {
+      "Vetor/1.0.0": {
         "runtime": {
-          "EntradaDeDados.dll": {}
+          "Vetor.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "EntradaDeDados/1.0.0": {
+    "Vetor/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
